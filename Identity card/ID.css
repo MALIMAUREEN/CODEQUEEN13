@@ -1,0 +1,33 @@
+/* Commenting shortcut is the same Ctrl+/         */
+
+/* NOTICE THE DIFFERENCE WHEN IT COMES TO
+COMMENTING IN CSS AND HTML */
+
+/* ETERNAL CSS DOESNOT USE TAGS IN ANGLE BRACKETS */
+
+#date{
+font-weight: bold;
+}
+
+#photo{
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+#myName{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.image{
+    background-color: blanchedalmond;
+    padding: 50PX;
+}
+
+#heading{
+    background-color: azure;
+    border-radius: 10px;
+    /*  */
+}

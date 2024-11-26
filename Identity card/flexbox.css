@@ -1,0 +1,31 @@
+
+body{
+    display: flex;
+    /* align affects vertical alignment */
+    align-items: center;
+
+    /*  */
+    
+
+}
+
+.outer{
+    height: 500px;
+    width: 500px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#box1{
+    height: 400;
+    width: 200px;
+    background-color: blue;
+}
+
+#box2{
+    height: 400px;
+    width: 200px;
+    background-color: aqua;
+}
